@@ -1,0 +1,5 @@
+Règles :
+
+Le but du jeu est d'atteindre le/les  anneaux le plus rapidement possible.
+Si vous tomber dans le vide alors c'est perdu.
+
